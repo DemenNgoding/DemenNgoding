@@ -1,6 +1,6 @@
 ## KEEP LEARNING
 
-![Banner][img/githubBanner.png]
+![Banner](img/githubBanner.png)
 
 <!--
 **DemenNgoding/DemenNgoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
