@@ -1,5 +1,3 @@
-## KEEP LEARNING
-
 ![Banner](img/githubBanner.png)
 
 <!--
